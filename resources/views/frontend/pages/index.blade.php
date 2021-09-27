@@ -155,7 +155,7 @@
                         <div class="inline-facts">
                             <div class="milestone-counter">
                                 <div class="stats animaper">
-                                    <div class="num text-center" data-content="0" data-num="15">0</div>
+                                    <div class="num text-center"><span class="count">15</span></div>
                                 </div>
                             </div>
                             <h6>Years of Experience</h6>
@@ -167,7 +167,7 @@
                         <div class="inline-facts">
                             <div class="milestone-counter">
                                 <div class="stats animaper">
-                                    <div class="num text-center" data-content="0" data-num="200">0</div>
+                                    <div class="num text-center"><span class="count">200</span></div>
                                 </div>
                             </div>
                             <h6>Team Members</h6>
@@ -179,7 +179,7 @@
                         <div class="inline-facts">
                             <div class="milestone-counter">
                                 <div class="stats animaper">
-                                    <div class="num text-center" data-content="0" data-num="450">0</div>
+                                    <div class="num text-center"><span class="count">450</span><span> +</span></div>
                                 </div>
                             </div>
                             <h6>Satisfied Clients</h6>
@@ -191,7 +191,7 @@
                         <div class="inline-facts">
                             <div class="milestone-counter">
                                 <div class="stats animaper">
-                                    <div class="num text-center" data-content="0" data-num="1000">0 <div>+</div></div>
+                                    <div class="num text-center"><span class="count">1000</span><span> +</span></div>
                                 </div>
                             </div>
                             <h6>Projects</h6>

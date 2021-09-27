@@ -255,7 +255,7 @@ blockquote p {
 	z-index: 1;
 	background-size: cover;
 	background-attachment: scroll;
-	background-position: center;
+	background-position: top;
 	background-repeat: repeat;
 	background-origin: content-box;
 }
